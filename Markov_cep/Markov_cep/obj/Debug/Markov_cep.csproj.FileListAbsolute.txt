@@ -1,0 +1,8 @@
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\bin\Debug\Markov_cep.exe
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\bin\Debug\Markov_cep.pdb
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\ResolveAssemblyReference.cache
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\Markov_cep.Form1.resources
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\Markov_cep.Properties.Resources.resources
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\Markov_cep.csproj.GenerateResource.Cache
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\Markov_cep.exe
+C:\__FILES__\__PROJECTS__\Programming\Markov_cep\Markov_cep\obj\Debug\Markov_cep.pdb
