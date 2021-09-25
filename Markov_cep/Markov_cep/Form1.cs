@@ -88,7 +88,11 @@ namespace Markov_cep
             text_input = sr.ReadToEnd();
             sr.Close();
 
-            window_size = int.Parse(textBoxWindow.Text);
+            window_size = int.Parse(textBoxWindow.Text) + 1;
+            if (window_size < 0)
+            {
+                window_size = 2;
+            }
 
             //ADD to dict data
             if (radioButtonChar.Checked)
